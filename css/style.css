@@ -1,4 +1,11 @@
-body {
+.container {
+	font-family: "Roboto Slab";
+}
+nav .custom-brand {
+	font-family: 'Iceberg', cursive;
+}
+
+/*body {
 	background: #EFEFEF;
 }
 .warning {
